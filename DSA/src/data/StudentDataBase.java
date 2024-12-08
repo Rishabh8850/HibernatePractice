@@ -2,6 +2,8 @@ package data;
 
 import java.util.Arrays;
 import java.util.List;
+import java.util.Optional;
+import java.util.function.Supplier;
 
 public class StudentDataBase {
 
@@ -9,6 +11,16 @@ public class StudentDataBase {
      * Total of 6 students in the database.
      * @return
      */
+
+    public static Supplier<Student> studentSupplier = () -> {
+        Bike bike = new Bike();
+        bike.setName("Yamaha");
+        bike.setModel("FZ1");
+        Student student2 = new Student("Jenny",2,3.8,"female", Arrays.asList("swimming", "gymnastics","soccer"));
+        student2.setBike(Optional.ofNullable(bike));
+        return student2;
+    };
+
     public static List<Student> getAllStudents(){
 
         /**

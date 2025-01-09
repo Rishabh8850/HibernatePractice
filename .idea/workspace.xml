@@ -4,46 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a16d7ec-10f5-4b0a-ac62-8082265f5ccf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/BitwiseOperator/CountSetBits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/BitwiseOperator/KthSetBitExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/FunctionsExample/FunctionExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/FunctionsExample/SetBitsExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Recursion/AllPermutationSubset.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Recursion/AllSubsetExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Recursion/JosephusExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Recursion/RecursionExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/Recursion/TowerOFHanoi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/arrayExample/FrequencyInSortedArrayExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/arrayExample/LeadersExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/arrayExample/LeftRotateArrayByOneExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/arrayExample/LeftRotateArrayBydExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/arrayExample/LongestEvenOdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/arrayExample/MajorityElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/arrayExample/MaxNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/arrayExample/MaximumConsecutive1s.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/arrayExample/MaximumDifferenceExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/arrayExample/MaximumSubArraySum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/arrayExample/MaximumSubArraySumCircular.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/arrayExample/MinimumConsecutiveFlips.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/arrayExample/MoveZeroToEnd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/arrayExample/RemoveDuplicatesExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/arrayExample/ReverseArrayExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/arrayExample/SecondLargest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/arrayExample/SortedArrayCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/arrayExample/StockBuyProfitEfficient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/arrayExample/StockBuyProfitNaive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/arrayExample/TrappingRainWaterEfficient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/arrayExample/TrappingRainWaterNaive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-    </list>
+    <list default="true" id="1a16d7ec-10f5-4b0a-ac62-8082265f5ccf" name="Changes" comment="My DSA Project" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -158,7 +119,30 @@
       <option name="presentableId" value="Default" />
       <updated>1734766830771</updated>
     </task>
+    <task id="LOCAL-00001" summary="My DSA Project">
+      <created>1736452593392</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1736452593392</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="My DSA Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="My DSA Project" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

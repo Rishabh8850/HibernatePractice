@@ -126,7 +126,21 @@
       <option name="project" value="LOCAL" />
       <updated>1736452593392</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="My DSA Project">
+      <created>1736452867632</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1736452867632</updated>
+    </task>
+    <task id="LOCAL-00003" summary="My DSA Project">
+      <created>1736453007354</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1736453007354</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

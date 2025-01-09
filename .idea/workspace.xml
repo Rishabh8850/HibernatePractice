@@ -4,250 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a16d7ec-10f5-4b0a-ac62-8082265f5ccf" name="Changes" comment="My DSA Project">
-      <change afterPath="$PROJECT_DIR$/Interview/src/main/BitwiseOperator/CountSetBits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/src/main/BitwiseOperator/KthSetBitExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/src/main/FunctionsExample/FunctionExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/src/main/FunctionsExample/SetBitsExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/src/main/Recursion/AllPermutationSubset.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/src/main/Recursion/AllSubsetExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/src/main/Recursion/JosephusExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/src/main/Recursion/RecursionExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/src/main/Recursion/TowerOFHanoi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/src/main/arrayExample/FrequencyInSortedArrayExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/src/main/arrayExample/LeadersExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/src/main/arrayExample/LeftRotateArrayByOneExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/src/main/arrayExample/LeftRotateArrayBydExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/src/main/arrayExample/LongestEvenOdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/src/main/arrayExample/MajorityElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/src/main/arrayExample/MaxNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/src/main/arrayExample/MaximumConsecutive1s.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/src/main/arrayExample/MaximumDifferenceExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/src/main/arrayExample/MaximumSubArraySum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/src/main/arrayExample/MaximumSubArraySumCircular.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/src/main/arrayExample/MinimumConsecutiveFlips.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/src/main/arrayExample/MoveZeroToEnd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/src/main/arrayExample/RemoveDuplicatesExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/src/main/arrayExample/ReverseArrayExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/src/main/arrayExample/SecondLargest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/src/main/arrayExample/SortedArrayCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/src/main/arrayExample/StockBuyProfitEfficient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/src/main/arrayExample/StockBuyProfitNaive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/src/main/arrayExample/TrappingRainWaterEfficient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/src/main/arrayExample/TrappingRainWaterNaive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Interview/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/src/BinarySearchTree/BinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/src/BinarySearchTree/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/src/LinkedList1/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/src/LinkedList1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/src/Practice/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/src/Practice/RecursionProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/src/Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/src/Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/src/StringMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/src/data/Bike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/src/data/StudentDataBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/src/dateTime/ComparingDatesPeriodExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/src/dateTime/ComparingTimeDurationExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/src/dateTime/DateTimeExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/src/dateTime/DateToLocalDateExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/src/dateTime/FormattingDateTimeExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/src/dateTime/FormattingLocalDateExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/src/dateTime/FormattingLocalTimeExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/src/dateTime/InstantExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/src/dateTime/LocaDateTimeExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/src/dateTime/LocalDateExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/src/dateTime/LocalTimeExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/src/dateTime/ZonedDateTimeExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/src/defaultPackage/InterfaceA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/src/defaultPackage/InterfaceB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/src/defaultPackage/InterfaceC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/src/defaultPackage/InterfaceClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/src/defaultPackage/Java8DefaultExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/src/defaultPackage/Multiply.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/src/defaultPackage/MultiplyClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/src/defaultPackage/MultiplyImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/src/functionalInterfaces/BiConsumerExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/src/functionalInterfaces/BiFunctionExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/src/functionalInterfaces/BinaryOperatorExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/src/functionalInterfaces/ConsumerExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/src/functionalInterfaces/FunctionExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/src/functionalInterfaces/FunctionMethodReferenceExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/src/functionalInterfaces/FunctionalStudentExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/src/functionalInterfaces/PredicateConsumerExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/src/functionalInterfaces/PredicateExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/src/functionalInterfaces/PredicateStudentExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/src/functionalInterfaces/SupplierExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/src/functionalInterfaces/UnaryOperatorExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/src/numericStream/NumericStreamBoxingUnboxingExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/src/numericStream/NumericStreamMapExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/src/numericStream/StreamAggregatedNumericExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/src/numericStream/StreamNumericExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/src/numericStream/StreamRangeExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/src/optional/StreamOptionaOrElseExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/src/optional/StreamOptionalExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/src/optional/StreamOptionalFactoryExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/src/optional/StreamOptionalMapExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/src/optional/StreamPresentExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/src/parallelStream/StreamParallelBoxedExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/src/parallelStream/StreamParallelExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/src/parallelStream/StreamParallelMutableExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/src/parallelStream/StreamParallelPerformanceExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/src/parallelStream/Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/src/streamTerminal/StreamCountingExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/src/streamTerminal/StreamGroupingByExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/src/streamTerminal/StreamJoinningExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/src/streamTerminal/StreamMappingExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/src/streamTerminal/StreamMinByMaxByExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/src/streamTerminal/StreamPartinioningByExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/src/streamTerminal/StreamSumAvgExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/src/streams/StramsComparatorExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/src/streams/StreamFactoryMethodsExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/src/streams/StreamFindExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/src/streams/StreamFlatMapExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/src/streams/StreamMatchExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/src/streams/StreamMaxMinReduceExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/src/streams/StreamsExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/src/streams/StreamsLimitSkipExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/src/streams/StreamsMapExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java8/src/streams/StreamsReduceExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/DSA.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/BinarySearchTree/BinarySearchTree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/BinarySearchTree/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/LinkedList1/LinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/LinkedList1/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/Practice/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/Practice/RecursionProblem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/Queue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/Stack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/StringMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/data/Bike.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/data/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/data/StudentDataBase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/dateTime/ComparingDatesPeriodExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/dateTime/ComparingTimeDurationExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/dateTime/DateTimeExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/dateTime/DateToLocalDateExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/dateTime/FormattingDateTimeExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/dateTime/FormattingLocalDateExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/dateTime/FormattingLocalTimeExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/dateTime/InstantExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/dateTime/LocaDateTimeExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/dateTime/LocalDateExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/dateTime/LocalTimeExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/dateTime/ZonedDateTimeExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/defaultPackage/InterfaceA.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/defaultPackage/InterfaceB.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/defaultPackage/InterfaceC.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/defaultPackage/InterfaceClient.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/defaultPackage/Java8DefaultExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/defaultPackage/Multiply.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/defaultPackage/MultiplyClient.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/defaultPackage/MultiplyImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/functionalInterfaces/BiConsumerExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/functionalInterfaces/BiFunctionExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/functionalInterfaces/BinaryOperatorExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/functionalInterfaces/ConsumerExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/functionalInterfaces/FunctionExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/functionalInterfaces/FunctionMethodReferenceExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/functionalInterfaces/FunctionalStudentExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/functionalInterfaces/PredicateConsumerExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/functionalInterfaces/PredicateExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/functionalInterfaces/PredicateStudentExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/functionalInterfaces/SupplierExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/functionalInterfaces/UnaryOperatorExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/numericStream/NumericStreamBoxingUnboxingExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/numericStream/NumericStreamMapExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/numericStream/StreamAggregatedNumericExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/numericStream/StreamNumericExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/numericStream/StreamRangeExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/optional/StreamOptionaOrElseExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/optional/StreamOptionalExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/optional/StreamOptionalFactoryExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/optional/StreamOptionalMapExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/optional/StreamPresentExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/parallelStream/StreamParallelBoxedExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/parallelStream/StreamParallelExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/parallelStream/StreamParallelMutableExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/parallelStream/StreamParallelPerformanceExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/parallelStream/Sum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/streamTerminal/StreamCountingExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/streamTerminal/StreamGroupingByExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/streamTerminal/StreamJoinningExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/streamTerminal/StreamMappingExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/streamTerminal/StreamMinByMaxByExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/streamTerminal/StreamPartinioningByExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/streamTerminal/StreamSumAvgExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/streams/StramsComparatorExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/streams/StreamFactoryMethodsExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/streams/StreamFindExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/streams/StreamFlatMapExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/streams/StreamMatchExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/streams/StreamMaxMinReduceExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/streams/StreamsExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/streams/StreamsLimitSkipExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/streams/StreamsMapExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DSA/src/streams/StreamsReduceExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/ConsumerExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/LambdaProgramming.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/practice/java/BiConsumerExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/practice/java/PredicateConsumerExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/practice/java/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java8/src/data/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Interview/src/com/practice/java/StudentDataBase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaPractice" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyJavaPractice" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringPractice" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/BitwiseOperator/CountSetBits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/BitwiseOperator/KthSetBitExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/FunctionsExample/FunctionExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/FunctionsExample/SetBitsExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Recursion/AllPermutationSubset.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Recursion/AllSubsetExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Recursion/JosephusExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Recursion/RecursionExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Recursion/TowerOFHanoi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/arrayExample/FrequencyInSortedArrayExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/arrayExample/LeadersExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/arrayExample/LeftRotateArrayByOneExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/arrayExample/LeftRotateArrayBydExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/arrayExample/LongestEvenOdd.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/arrayExample/MajorityElements.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/arrayExample/MaxNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/arrayExample/MaximumConsecutive1s.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/arrayExample/MaximumDifferenceExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/arrayExample/MaximumSubArraySum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/arrayExample/MaximumSubArraySumCircular.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/arrayExample/MinimumConsecutiveFlips.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/arrayExample/MoveZeroToEnd.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/arrayExample/RemoveDuplicatesExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/arrayExample/ReverseArrayExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/arrayExample/SecondLargest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/arrayExample/SortedArrayCheck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/arrayExample/StockBuyProfitEfficient.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/arrayExample/StockBuyProfitNaive.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/arrayExample/TrappingRainWaterEfficient.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/arrayExample/TrappingRainWaterNaive.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" />
-    </list>
+    <list default="true" id="1a16d7ec-10f5-4b0a-ac62-8082265f5ccf" name="Changes" comment="My DSA Project" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -262,6 +19,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="2qW8AdN4dBI6w3KpoM0787nqjnP" />
@@ -270,14 +28,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Rishabh_Shukla/IdeaProjects"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Rishabh_Shukla\IdeaProjects\JavaPractice\Interview" />
@@ -404,7 +163,28 @@
       <option name="project" value="LOCAL" />
       <updated>1736454954555</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="My DSA Project">
+      <created>1736456448170</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1736456448170</updated>
+    </task>
+    <task id="LOCAL-00007" summary="My DSA Project">
+      <created>1736456512867</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1736456512867</updated>
+    </task>
+    <task id="LOCAL-00008" summary="My DSA Project">
+      <created>1736456607461</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1736456607462</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

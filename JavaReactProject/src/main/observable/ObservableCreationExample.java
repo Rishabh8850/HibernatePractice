@@ -25,8 +25,9 @@ public class ObservableCreationExample {
         observable.subscribe(System.out::println);
     }
 
+    //If you have List then use FromIterable
     public static void createObservableUsingFromIterable() {
-        List<Integer> intList = IntStream.rangeClosed(1,5).mapToObj(Integer::new).collect(toList());
+        List<Integer> intList = IntStream.rangeClosed(1,5).boxed().collect(toList());
         Observable<Integer> observable = Observable.fromIterable(intList);
         observable.subscribe(System.out::println);
     }
